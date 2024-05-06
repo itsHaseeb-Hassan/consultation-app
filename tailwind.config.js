@@ -9,7 +9,8 @@ module.exports = {
     extend: {
       backgroundImage: {
         "heroSection":"url('/images/Group 5.png')",
-        "curatedDoctor":"url('/images/Frame.png')"
+        "curatedDoctor":"url('/images/Frame.png')",
+        "DownloadApp":"url('/images/Group 3.png')"
       },
     },
   },
